@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://github.com/nurettinyavuz/ghpvc/?nurettinyavuz=your-github-nurettinyavuz&style=flat-square)
 <!--
 **nurettinyavuz/nurettinyavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
