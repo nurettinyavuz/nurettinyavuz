@@ -18,7 +18,7 @@ I'm a [Backend Engineer](https://www.linkedin.com/in/nurettin-yavuz/).
 </td><td valign="top" width="33%">
   <br>
 
-[![](https://visitcount.itsvg.in/api?id=nurettinyavuz&icon=0&color=1)]()
+![](https://komarev.com/ghpvc/?username=your-nurettinyavuz&color=blue)
 <!--
 **nurettinyavuz/nurettinyavuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
